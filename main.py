@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
     print("This is a sample Python script.")
     print("The script is used to compare two different scripts.")
+    print("this is branch2")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
