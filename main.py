@@ -10,6 +10,8 @@ def print_hi(name):
     print("This is a sample Python script.")
     print("The script is used to compare two different scripts.")
     print("this is branch22222")
+    print("this is branch2")
+    print("this is new branch 1dsfsdfsdf")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
